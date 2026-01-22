@@ -22,7 +22,7 @@ repository (the `dmcable` version).
 
 # BIOSTAT620 Winter 2026 students
 
-Clara Bowman
+[**@clarabowman1**](https://github.com/clarabowman1) I'm Clara and I like knitting, but don't like the cold.
 
 Hanna Fei
 
