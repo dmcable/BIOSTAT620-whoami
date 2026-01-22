@@ -36,7 +36,9 @@ Faith Okaalo
 
 Kyoka Ono
 
-Olivia Roberts
+```md
+[**@oroberts**](https://github.com/oliveroberts) I'm Olivia, but you can call me Olive. I am a yoga teacher.
+```
 
 Minyoung So
 
