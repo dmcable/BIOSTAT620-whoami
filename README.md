@@ -22,6 +22,34 @@ repository (the `dmcable` version).
 
 # BIOSTAT620 Winter 2026 students
 
+Clara Bowman
+
+Hanna Fei
+
+Andre Gala-Garza
+
+Chun Tse Hung
+
+Boqian Mao
+
+Faith Okaalo
+
+Kyoka Ono
+
+Olivia Roberts
+
+Minyoung So
+
+Nate Truettner
+
+Kyle Wakerley
+
+Shuchen Wu
+
+Jinyan Zha
+
+Katherine Zhao
+
 ## Instructor
 
 [**@dmcable**](https://github.com/dmcable) I'm Dylan, and I am adopting my first dog, named Appa, this month. <img src="https://singlecellspatialanalysis.umich.edu/wp-content/uploads/2024/11/Screenshot-2024-11-07-at-3.36.04%E2%80%AFPM-768x759.png" alt="profile pic" width="40px">
