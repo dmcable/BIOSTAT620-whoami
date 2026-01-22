@@ -42,7 +42,7 @@ Minyoung So
 
 Nate Truettner - @ntruettner1, I am from Waukesha, Wisconsin and I really enjoy going to the movies and reading
 
-Kyle Wakerley
+Kyle Wakerley [**@kwakerley**](https://github.com/kwakerley) Hi guys I'm Kyle! I'm a first year masters student.
 
 Shuchen Wu
 
