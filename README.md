@@ -28,7 +28,7 @@ Hanna Fei
 
 Andre Gala-Garza
 
-Chun Tse Hung
+Chun Tse Hung | @chuntseh | I am a first-year PhD student at UMich College of Pharmacy |
 
 Boqian Mao
 
