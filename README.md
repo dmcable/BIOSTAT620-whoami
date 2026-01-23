@@ -40,7 +40,7 @@ Faith Okaalo
 
 [**@biosoaji**](https://github.com/biosoaji) Hi, I'm Minyoung, and I talk in my sleep. I feel like talking about repositories tonight! Reference of image: Peeters and Dresler, 2014, Frontiers for young minds <img src="https://www.frontiersin.org/files/Articles/124450/frym-2014-00009-HTML-r1/image_m/main.jpg" alt="profile pic" width="40px">
 
-Nate Truettner - @ntruettner1, I am from Waukesha, Wisconsin and I really enjoy going to the movies and reading
+Nate Truettner - [**@ntruettner1**](https://github.com/ntruettner1), I am from Waukesha, Wisconsin and I really enjoy going to the movies and reading
 
 Kyle Wakerley [**@kwakerley**](https://github.com/kwakerley) Hi guys I'm Kyle! I'm a first year masters student.
 
