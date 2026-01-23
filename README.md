@@ -24,7 +24,7 @@ repository (the `dmcable` version).
 
 [**@clarabowman1**](https://github.com/clarabowman1) I'm Clara and I like knitting, but don't like the cold.
 
-Hanna Fei
+[**@hanna-fei**](https://github.com/hanna-fei) I'm Hanna and I have a cat named Shrimp.
 
 [**@AndreGalaGarza**](https://github.com/AndreGalaGarza/) I'm Andre, and last summer I attended the [Biomedical Data Science Summer Academy](https://badges.parchment.com/public/assertions/HfyTugHdQluBB6LrmA3GbQ) offered by [MIDAS](https://midas.umich.edu/). <img src="https://avatars.githubusercontent.com/u/113049436?v=4" alt="profile pic" width="40px">
 
