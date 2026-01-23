@@ -48,7 +48,7 @@ Shuchen Wu
 
 Jinyan Zha
 
-[**@zhao-katie**] I'm Katie! I enjoy skiing during the winters, even in more brutal weather. 
+[**@zhao-katie**](https://github.com/zhao-katie) I'm Katie! I enjoy skiing during the winters, even in more brutal weather. 
 
 ## Instructor
 
