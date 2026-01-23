@@ -48,7 +48,7 @@ Shuchen Wu
 
 Jinyan Zha
 
-Katherine Zhao
+[**@zhao-katie**] I'm Katie! I enjoy skiing during the winters, even in more brutal weather. 
 
 ## Instructor
 
