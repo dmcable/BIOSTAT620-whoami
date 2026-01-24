@@ -46,7 +46,7 @@ Kyle Wakerley [**@kwakerley**](https://github.com/kwakerley) Hi guys I'm Kyle! I
 
 Shuchen Wu
 
-Jinyan Zha
+[**@Jinyan**](https://github.com/jinyanzha) I'm Jinyan Zha. I hope we will enjoy this class this semester, thank you!
 
 [**@zhao-katie**](https://github.com/zhao-katie) I'm Katie! I enjoy skiing during the winters, even in more brutal weather. 
 
