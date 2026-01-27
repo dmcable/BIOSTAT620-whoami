@@ -30,7 +30,7 @@ Andre Gala-Garza
 
 Chun Tse Hung
 
-Boqian Mao
+Boqian Mao [**@boqian-dot**](https://github.com/boqian-dot) I am Boqian, and I love playing EAFC 26
 
 Faith Okaalo
 
