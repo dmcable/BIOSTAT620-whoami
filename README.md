@@ -44,7 +44,7 @@ Nate Truettner - [**@ntruettner1**](https://github.com/ntruettner1), I am from W
 
 Kyle Wakerley [**@kwakerley**](https://github.com/kwakerley) Hi guys I'm Kyle! I'm a first year masters student.
 
-Shuchen Wu
+Shuchen Wu - [**@Alfie0925**](https://github.com/Alfie0925) Hi guys, I'm Shuchen. I love Japanese manga and anime.
 
 Jinyan Zha
 
