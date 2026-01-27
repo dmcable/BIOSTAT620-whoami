@@ -30,7 +30,7 @@ repository (the `dmcable` version).
 
 Chun Tse Hung [**@chuntseh**](https://github.com/chuntseh) I'm Chun-Tse, a first-year PhD student at UMich College of Pharmacy.
 
-Boqian Mao
+Boqian Mao [**@boqian-dot**](https://github.com/boqian-dot) I am Boqian, and I love playing EAFC 26
 
 Faith Okaalo
 
