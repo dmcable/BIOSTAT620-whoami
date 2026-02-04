@@ -32,7 +32,7 @@ Chun Tse Hung [**@chuntseh**](https://github.com/chuntseh) I'm Chun-Tse, a first
 
 Boqian Mao [**@boqian-dot**](https://github.com/boqian-dot) I am Boqian, and I love playing EAFC 26
 
-Faith Okaalo
+Faith Okaalo [**@FaithOkaalo**](https://github.com/FaithOkaalo) I'm Faith, a second year PhD student in HBHE.
 
 [**@kyokaono8811**](https://github.com/kyokaono8811) I'm Kyoka, I'm from Japan and I like to do soccer/run in my free time. 
 
